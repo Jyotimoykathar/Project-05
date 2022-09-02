@@ -23,8 +23,8 @@ This is the fifth mini-challenge project among the 15 Ineruron-projects.
 
 ### Links
 
-- Code File URL: [github.com](https://github.com/Jyotimoykathar/project-05)
-- Live Site URL: [netlify.app](https://project-05)
+- Code File URL: [github.com](https://github.com/Jyotimoykathar/Project-05)
+- Live Site URL: [netlify.app](https://project-05-doa-token.netlify.app/)
 
 ## My Process
 
