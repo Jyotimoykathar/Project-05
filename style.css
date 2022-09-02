@@ -1,3 +1,4 @@
+/* Genearl Components */
 * {
   margin: 0;
   padding: 0;
@@ -22,7 +23,10 @@ body {
   background-size: 100% 100%;
   background-position: center;
 }
+
+/* ******************* */
 /* NAVIGATION SECTION */
+/* ******************* */
 .navbar {
   display: flex;
   flex-direction: row;
@@ -53,20 +57,6 @@ body {
 .list-item {
   position: relative;
 }
-/* arrow head down */
-/* .list-item:nth-child(1)::after {
-  content: "";
-  position: absolute;
-  top: 40%;
-  right: -40%;
-  height: 1rem;
-  width: 1rem;
-  border-style: solid;
-  border-color: white;
-  border-width: 0px 1px 1px 0px;
-  transform: rotate(45deg);
-  cursor: pointer;
-} */
 .button-small {
   border: none;
   border-radius: 0.5rem;
@@ -77,7 +67,9 @@ body {
   color: white;
 }
 
+/* ************* */
 /* HERO SECTION */
+/* ************* */
 
 [aria-label="hero"] {
   max-width: 120rem;
@@ -105,7 +97,6 @@ body {
   letter-spacing: 0.2rem;
 }
 .button-large {
-  /* display: inline-block; */
   border: none;
   border-radius: 1rem;
   padding: 2rem 1.8rem;
